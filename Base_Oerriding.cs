@@ -7,7 +7,7 @@ public class Animal1
 {
     public virtual void eatt()
     {
-        Console.WriteLine("eating...");
+        Console.WriteLine("eating... Git Run");
     }
 }
 public class Dogg : Animal1
